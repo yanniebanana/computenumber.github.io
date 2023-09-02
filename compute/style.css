@@ -1,0 +1,19 @@
+.number {
+	border:1px solid green;
+	text-align:right;
+}
+
+.sumdiff {
+	background-color: maroon;
+	color:black;
+}
+
+.multidiv {
+    background-color: maroon;
+	color:black;
+}
+
+.summul {
+    background-color: maroon;
+	color:black;
+}
